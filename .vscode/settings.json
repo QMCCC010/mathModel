@@ -1,0 +1,18 @@
+{
+    "editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": "comment", // 针对注释
+            "settings": {
+                "foreground": "#00FF00", // 设置成绿色，你可以换成喜欢的颜色
+                "fontStyle": "italic"    // 可选：italic/underline/bold
+            }
+        }
+    ]
+},
+"cSpell.words": [
+    "linalg",
+    "Sumr"
+]
+
+}
