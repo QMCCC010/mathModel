@@ -1,7 +1,11 @@
 {
     "cSpell.words": [
+        "fmin",
+        "ineq",
         "linalg",
         "mylog",
+        "nonlcon",
+        "SLSQP",
         "Topsis",
         "xlabel",
         "ylabel"
